@@ -1,0 +1,16 @@
+{
+  "name": "electron-x11",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Andrew Brey <34140052+andrewbrey@users.noreply.github.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "electron ."
+  },
+  "dependencies": {
+    "electron": "^15"
+  },
+  "devDependencies": {
+    "prettier": "^2.5.1"
+  }
+}
